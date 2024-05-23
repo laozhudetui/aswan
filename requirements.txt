@@ -14,7 +14,7 @@ django-environ==0.4.3
 django-tables2==1.10.0
 django-crispy-forms==1.7.0
 pymongo==3.4.0
-pymysql==0.9.3
+pymysql==1.1.1
 DBUtils==1.2
 python-dateutil==2.6.1
 uWSGI==2.0.15
